@@ -31,7 +31,7 @@
 <img align="left" alt="Jaasiel Beltran Alvarez" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=ffffff"/>
 </a>
 
-<a>
+<a href="https://twitter.com/jaasi_dev">
 <img align="left" alt="Jaasiel Beltran Alvarez" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=ffffff" />
 </a>
 
