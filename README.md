@@ -1,17 +1,44 @@
 
+### Bienvenidos☕
 <br/>
 
-**Descripcion:** Me llamo Jaasiel👨🏽‍💻, tengo 21 años y soy un frontend developer🖍️.
+ℹ️**Descripcion:** Me llamo Jaasiel👨🏽‍💻, tengo 21 años y soy un frontend developer🖍️.
 
-**Idiomas:** Español🇪🇸/Inglés🇬🇧
+💬**Idiomas:** Español🇪🇸/Inglés🇬🇧
 
-**Educación:** Ingenieria en Telecomunicaciones y Electrónica-CPE-(UCLV: 2022-actualmente)
+📚**Educación:** Ingenieria en Telecomunicaciones y Electrónica-CPE-(UCLV: 2022-actualmente)
+
+🌎**Nacionalidad:** Cubano🇨🇺
+
+
+
+<br/>
+
+#### 💻 Habilidades:
+
+- **Html**🌐
+- **Css**🎨
+- **Javascript**⌨️
+- **Tailwind**🖌️
+- **Astro**🚀
+- **React**⚛️
+
+<br/>
 
 ---
-<center>
 
-### Habilidades
-</center>
+<a href="http://www.linkedin.com/in/jaasiel-beltran-b3b3b5258">
+<img align="left" alt="Jaasiel Beltran Alvarez" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=ffffff"/>
+</a>
+
+<a>
+<img align="left" alt="Jaasiel Beltran Alvarez" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=ffffff" />
+</a>
+
+<p align="right">Hecho con ❤️</p>
+
+
+----
 
 
 
