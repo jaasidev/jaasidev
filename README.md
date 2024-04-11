@@ -1,4 +1,20 @@
-### Hi there 👋
+
+<br/>
+
+**Descripcion:** Me llamo Jaasiel👨🏽‍💻, tengo 21 años y soy un frontend developer🖍️.
+
+**Idiomas:** Español🇪🇸/Inglés🇬🇧
+
+**Educación:** Ingenieria en Telecomunicaciones y Electrónica-CPE-(UCLV: 2022-actualmente)
+
+---
+<center>
+
+### Habilidades
+</center>
+
+
+
 
 <!--
 **NekroRainbow/NekroRainbow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
