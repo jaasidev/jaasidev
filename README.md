@@ -28,11 +28,11 @@
 ---
 
 <a href="http://www.linkedin.com/in/jaasiel-beltran-b3b3b5258">
-<img align="left" alt="Jaasiel Beltran Alvarez" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=ffffff"/>
+<img align="left" alt="Jaasiel Beltran Alvarez" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=1d5dec"/>
 </a>
 
 <a href="https://twitter.com/jaasi_dev">
-<img align="left" alt="Jaasiel Beltran Alvarez" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=ffffff" />
+<img align="left" alt="Jaasiel Beltran Alvarez" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=1d5dec" />
 </a>
 
 <p align="right">Hecho con ❤️</p>
