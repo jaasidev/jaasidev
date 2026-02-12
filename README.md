@@ -2,7 +2,7 @@
 ### Bienvenidos☕
 <br/>
 
-ℹ️**Descripcion:** Me llamo Jaasiel👨🏽‍💻, tengo 21 años y soy un desarrollador frontend🖍️.
+ℹ️**Descripcion:** Me llamo Jaasiel👨🏽‍💻, tengo 22 años y soy un desarrollador frontend🖍️.
 
 💬**Idiomas:** Español🇪🇸/Inglés🇬🇧
 
