@@ -2,7 +2,7 @@
 ### Bienvenidos☕
 <br/>
 
-Hola! Me llamo Jaasiel👨🏽‍💻 soy cubano🇨🇺, tengo 23 años y soy un desarrollador frontend🖍️. Me encanta el mundo de la tecnología, disfruto mucho aprender sobre: programación, GNU/Linux( I use Debian btw 🤣), historia de la informática y nuevas tecnologías.
+Hola! Me llamo Jaasiel👨🏽‍💻 soy cubano🇨🇺, tengo 23 años y soy un desarrollador frontend🖍️. Me encanta el mundo de la tecnología, disfruto mucho aprender sobre: programación, GNU/Linux( I use Debian btw 🤣) e historia de la informática.
 
 💬**Idiomas:** Español🇪🇸/Inglés🇬🇧
 
