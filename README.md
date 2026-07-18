@@ -15,7 +15,10 @@ Hola! Me llamo Jaasiel👨🏽‍💻. Tengo 23 años y soy desarrollador fronte
 - **Javascript y Typescript**📝
 - **React**⚛️
 - **Astro**🧑🏾‍🚀
+
 <br/>
+
+
 ---
 
 <a href="http://www.linkedin.com/in/jaasiel-beltran-b3b3b5258">
@@ -27,7 +30,6 @@ Hola! Me llamo Jaasiel👨🏽‍💻. Tengo 23 años y soy desarrollador fronte
 </a>
 
 <p align="right">Hecho con ❤️</p>
-
 
 ----
 
