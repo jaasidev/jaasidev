@@ -2,26 +2,21 @@
 ### Bienvenidos☕
 <br/>
 
-ℹ️**Descripcion:** Me llamo Jaasiel👨🏽‍💻, tengo 22 años y soy un desarrollador frontend🖍️.
+Hola! Me llamo Jaasiel👨🏽‍💻 soy cubano🇨🇺, tengo 23 años y soy un desarrollador frontend🖍️. Me encanta el mundo de la tecnología, disfruto mucho aprender sobre: programación, GNU/Linux( I use Debian btw 🤣), historia de la informática y nuevas tecnologías.
 
 💬**Idiomas:** Español🇪🇸/Inglés🇬🇧
 
-📚**Educación:** Ingenieria en Telecomunicaciones y Electrónica-CPE-(UCLV: 2022-actualmente)
-
-🌎**Nacionalidad:** Cubano🇨🇺
-
+📚**Educación:** Ingenieria en Telecomunicaciones y Electrónica-CPE-(UCLV: 2022-actualmente).
 
 
 <br/>
 
 #### 💻 Habilidades:
 
-- **Html**🌐
-- **Css**🎨
-- **Javascript**⌨️
-- **Tailwind**🖌️
-- **Astro**🚀
+- **Html, Css, Handlebars**🌐
+- **Javascript y Typescript**📝
 - **React**⚛️
+- **Astro**🧑🏾‍🚀
 
 <br/>
 
