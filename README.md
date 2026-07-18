@@ -2,13 +2,11 @@
 ### Bienvenidos☕
 <br/>
 
-Hola! Me llamo Jaasiel👨🏽‍💻 soy cubano🇨🇺, tengo 23 años y soy un desarrollador frontend🖍️. Me encanta el mundo de la tecnología, disfruto mucho aprender sobre: programación, GNU/Linux( I use Debian btw 🤣) e historia de la informática.
+Hola! Me llamo Jaasiel👨🏽‍💻. Tengo 23 años y soy desarrollador frontend🖍️. Me encanta el mundo de la tecnología, disfruto mucho aprender sobre: programación, GNU/Linux( I use Debian btw 🤣) e historia de la informática.
 
 💬**Idiomas:** Español🇪🇸/Inglés🇬🇧
 
 📚**Educación:** Ingenieria en Telecomunicaciones y Electrónica-CPE-(UCLV: 2022-actualmente).
-
-
 <br/>
 
 #### 💻 Habilidades:
@@ -17,9 +15,7 @@ Hola! Me llamo Jaasiel👨🏽‍💻 soy cubano🇨🇺, tengo 23 años y soy u
 - **Javascript y Typescript**📝
 - **React**⚛️
 - **Astro**🧑🏾‍🚀
-
 <br/>
-
 ---
 
 <a href="http://www.linkedin.com/in/jaasiel-beltran-b3b3b5258">
